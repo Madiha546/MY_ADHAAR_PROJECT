@@ -1,4 +1,4 @@
-MY_ADHAAR_PROJECT 
+aadhaar-kiosk-simulator
 
 This is a modern Aadhaar kiosk web application inspired by real-world use cases. It is built to simulate the Aadhaar enrollment, update, and status checking processes in a user-friendly interface.
 
